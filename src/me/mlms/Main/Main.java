@@ -1,5 +1,8 @@
 package me.mlms.Main;
 
+// settings manager is fixed
+// fix Main.java because certain methods have been updated
+
 import me.mlms.Main.SettingsManager;
 import java.util.ArrayList;
 import java.util.Iterator;
