@@ -1,0 +1,5 @@
+name: mLMS
+main: me.mlms.Main.Main
+version: 0.1
+commands:
+  lms:
